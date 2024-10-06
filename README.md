@@ -1,16 +1,8 @@
 ### Hi there 👋, I'm Ben!
 
-## Socials
-
-<img href="https://www.linkedin.com/in/ben-chatwin/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-<img href="https://twitter.com/Ben_g_chatwin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-
-<img href="https://medium.com/@benjamin.g.chatwin" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-
 ## Website
 
-www.benchatwin.com
+www.benchatwin.com - Need to move it from WebbSupport (do not recommend using them )
 
 ## Technologies I am familar with
 
